@@ -1,3 +1,7 @@
+# v6.0.1
+
+- Bump `stdlib` requirement to `>=1.0.0`
+
 # v6.0.0
 
 - Refactor `websocket` module a fair bit
